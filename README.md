@@ -1,3 +1,4 @@
 # my-website
 
-updates before rebase
+updates before rebas
+conflicting change with remote side
